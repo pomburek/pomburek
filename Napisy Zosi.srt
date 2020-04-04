@@ -767,7 +767,7 @@ Czy ty mówisz mi co mam nosić, Trami?
 183
 00:06:55,915 --> 00:06:58,076
 Nie, szefie!
-Wyglądasz dobrze!
+Wyglądasz świetnie!
 
 184
 00:06:58,151 --> 00:06:59,880
@@ -784,20 +784,19 @@ Nie, Koleś!
 
 187
 00:07:03,556 --> 00:07:05,217
-You tell <i>us</i> what to wear!
+Mówisz <i>nam</i> co nosić!
 
 188
 00:07:05,291 --> 00:07:07,316
-Otherwise, you would
-dress like an idiot!
+W innym przypadku, ubrałbyś się jak idiota!
 
 189
 00:07:07,393 --> 00:07:09,452
-Bam! korona shorts.
+Bam! Spodnie korony.
 
 190
 00:07:09,529 --> 00:07:11,019
-Amazing!
+Niesamowite!
 
 191
 00:07:11,097 --> 00:07:12,894
@@ -805,58 +804,55 @@ Yeah-ha-hah.
 
 192
 00:07:15,435 --> 00:07:17,062
-Clap harder, trash bag.
+Wal mocniej, ty worku na śmieci.
 
 193
 00:07:19,672 --> 00:07:20,866
-Okay, you guys.
+Okej, ludzie.
 
 194
 00:07:20,940 --> 00:07:22,931
-Give me my money or
-leave my parents alone.
+Dajcie mi moje pieniądze,
+albo zostawcie moich rodziców w spokoju.
 
 195
 00:07:23,009 --> 00:07:25,910
-Property of old dead person
-go to Big Destiny.
+Własność martwej osoby, Idź
+do Gangu Przeznaczenia.
 
 196
 00:07:27,380 --> 00:07:29,007
-One arm needs to
-learn the rules,
+Jednoręki musi nauczyć się zasad,
 
 197
 00:07:29,081 --> 00:07:31,276
-unless you want your
-butt handed to you.
+cyba, że chcesz, aby przekazać ci
+twój tyłek.
 
 198
 00:07:31,350 --> 00:07:33,375
-I guess it wasn't
-really mine.
+Myślę, że to nawet nie był mój.
 
 199
 00:07:33,453 --> 00:07:36,013
-It's mine!
-I'm a demon.
+Jest mój!
+Jestem demonem.
 
 200
 00:07:36,088 --> 00:07:37,146
-Half demon.
+Pół demonem.
 
 201
 00:07:37,223 --> 00:07:39,282
-Tromo, jack up crazy lady.
+Tromo, bierz szaloną staruszkę.
 
 202
 00:07:39,358 --> 00:07:42,054
-Trami, take mule back
-to crib for din-din.
+Trami, odprowadź muła do łóżeczka din-dina.
 
 203
 00:07:42,128 --> 00:07:43,186
-What?!
+Co?!
 
 204
 00:07:46,232 --> 00:07:47,164
@@ -864,12 +860,12 @@ Bar-bar!
 
 205
 00:07:47,233 --> 00:07:48,461
-Tough luck, one-arm!
+Niezłe szczęście, jednoręki!
 
 206
 00:07:53,739 --> 00:07:56,367
-See you soon,
-bad style junk town!
+Do zobaczenia,
+zły styl walące się miasteczko!
 
 207
 00:07:58,144 --> 00:07:59,168
@@ -877,11 +873,11 @@ Bar-bar.
 
 208
 00:07:59,245 --> 00:08:01,110
-End of the road, bat lady.
+Koniec trasy, nietoperza kobieto.
 
 209
 00:08:01,180 --> 00:08:02,442
-Oww, my bones!
+Ołł, moje kości!
 
 210
 00:08:03,749 --> 00:08:04,613
@@ -889,89 +885,87 @@ Aah!
 
 211
 00:08:06,919 --> 00:08:08,011
-My eye!
+Moje oko!
 
 212
 00:08:08,087 --> 00:08:09,384
-I will junk your face!
+Rozwalę ci twarz!
 
 213
 00:08:09,455 --> 00:08:10,979
-What the...
+Co do...
 
 214
 00:08:11,057 --> 00:08:13,116
-Destiny Gang,
-get out of town!
+Gangu Przeznaczenia,
+wynoście się z miasta!
 
 215
 00:08:13,192 --> 00:08:15,592
-We're sick of
-being bullied around!
+Mamy dosyć bycia dręczonymi!
 
 216
 00:08:15,661 --> 00:08:16,787
-Yeah!
+Ta!
 
 217
 00:08:16,863 --> 00:08:19,627
-You make big mistake!
+Popełniacie wielki błąd!
 
 218
 00:08:19,699 --> 00:08:21,496
-Especially you, one-arm.
+Zwłaszcza ty, jednoręki.
 
 219
 00:08:21,567 --> 00:08:24,229
-My name is Finn Mertens!
+Nazywam się Finn Mertens!
 
 220
 00:08:24,303 --> 00:08:26,271
-And tell Big "D"
-I'm coming for my stuff!
+I powiedzcie wilekiemu "D"
+że idę po moje rzeczy!
 
 221
 00:08:26,339 --> 00:08:28,330
-Oh, you come and try!
+Oh, przyjdź i spróbuj!
 
 222
 00:08:28,407 --> 00:08:29,635
-Are you okay, lady?
+Czy wszystko okej, proszę pani?
 
 223
 00:08:29,709 --> 00:08:31,176
-You must promise to...
+Musisz obiecać, że ...
 
 224
 00:08:31,244 --> 00:08:35,044
-promise to return the korona
-to its hide-hole.
+że odniesiesz koronę do ukrytej dziury.
 
 225
 00:08:35,114 --> 00:08:36,308
-I promise.
+Obiecuję.
 
 226
 00:08:36,382 --> 00:08:38,782
-You'll need this, Finn,
-if you want to win.
+Będziesz potrzebował tego, Finn,
+jeżeli chcesz wygrać.
 
 227
 00:08:38,851 --> 00:08:40,011
-Choose Bruce.
+Wybieraj Bruce.
 
 228
 00:08:40,086 --> 00:08:40,984
-What is it?
+Co to jest?
 
 229
 00:08:41,053 --> 00:08:42,850
-It's a weapon for your arm.
+To broń dla twojej ręki.
 
 230
 00:08:42,922 --> 00:08:46,688
-With this,
-you will defend from harm!
+Z tym,
+obronisz się od bólu!
 
 231
 00:08:46,759 --> 00:08:47,726
@@ -979,22 +973,21 @@ Hmm.
 
 232
 00:08:47,793 --> 00:08:50,557
-Feels natural,
-like peeing outside.
+Czuje się z tym, naturalnie,
+jak sikanie na dworze.
 
 233
 00:08:50,630 --> 00:08:51,892
-Sort of.
+Trochę.
 
 234
 00:08:51,964 --> 00:08:54,194
-Best Niet to take the lift,
-my friend,
+Użyj windy przyjacielu,
 
 235
 00:08:54,267 --> 00:08:57,293
-else the D-Gang
-will see you coming in!
+inaczej Gang-P
+zobaczy jak wchodzisz!
 
 236
 00:08:57,370 --> 00:08:58,359
@@ -1002,7 +995,7 @@ Nie.
 
 237
 00:08:58,437 --> 00:09:00,098
-I want them to see me.
+Chcę, żeby mnie widzieli.
 
 238
 00:09:00,172 --> 00:09:03,437
